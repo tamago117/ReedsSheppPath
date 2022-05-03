@@ -1,5 +1,4 @@
-# MCMPC
-monte carlo model predictive control
+# Reeds Sheep Path 
 
 this program matplotlib-cpp
 - [lava/matplotlib-cpp: Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib](https://github.com/lava/matplotlib-cpp "lava/matplotlib-cpp: Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib")
